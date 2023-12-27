@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "92110243225",
+    "firebase_url": "https://ecommerce-7dfad-default-rtdb.firebaseio.com",
+    "project_id": "ecommerce-7dfad",
+    "storage_bucket": "ecommerce-7dfad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92110243225:android:6bfc5cbd7888774ce0ff08",
+        "android_client_info": {
+          "package_name": "com.example.blogging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnd9unEGV4rjkUSEQhzCG-mzbudDXEg2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
